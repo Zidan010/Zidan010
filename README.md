@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sadir Ahmed Zidan
 
-<!--
-**Zidan010/Zidan010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Machine Learning Engineer | AI Developer**  
+I build smart, scalable AI solutions — from NLP & LLMs to Computer Vision and real-time APIs.
 
-Here are some ideas to get you started:
+- 🛠️ **Tech Stack:** Python, TensorFlow, PyTorch, FastAPI, Docker, LangChain, Hugging Face, SQL/MongoDB  
+- 🤖 **Specialties:** NLP, LLMs, RAG, Computer Vision, AI APIs, Model Optimization
+- 📈 **Impact:** Reduced resource usage by 70% and boosted processing efficiency by 40% on production ML systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+- [Face Mask Detection](https://github.com/zidan010/MaskDetection) — Real-time face mask detection system
+- [Drowsiness Detection](https://github.com/zidan010/DrowsinessDetection) — Driver alertness monitor
+- [Data Analysis & Prediction](https://github.com/zidan010/DataAnalysis) — Predicting health outcomes from sleep data
+
+💡 **Let’s connect!**  
+[LinkedIn](https://www.linkedin.com/in/sadir-ahmed-zidan/) | [Email](mailto:sazidan559@gmail.com)
+
+---
+
+*Always learning. Always building.*
