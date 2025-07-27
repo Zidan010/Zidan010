@@ -1,5 +1,8 @@
+<div align="center">
 
 # 👋 Hi, I'm Sadir Ahmed Zidan
+
+</div>
 
 🚀 **Machine Learning Engineer | AI Developer**  
 I build smart, scalable AI solutions — from NLP & LLMs to Computer Vision and real-time APIs.
