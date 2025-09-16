@@ -11,7 +11,7 @@ I build smart, scalable AI solutions — from NLP & LLMs to Computer Vision and 
 -  **Impact:** Reduced resource usage by 70% and boosted processing efficiency by 40% on production ML systems.
 
 **Let’s connect!**  
-[LinkedIn](https://www.linkedin.com/in/sadir-ahmed-zidan/) | [Email](mailto:sazidan559@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sadir-ahmed-zidan/) | [Email](mailto:sazidan559@gmail.com) | [Portfolio](https://ahmedzidan.netlify.app/)
 
 ---
 
